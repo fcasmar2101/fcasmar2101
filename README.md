@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍💻 Francisco Castillo Martín
 
-<!--
-**fcasmar2101/fcasmar2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Francisco, tengo 19 años y actualmente estudio **Administración de Sistemas Informáticos en Red (ASIR)**.  
+Me apasiona la informática, el aprendizaje continuo y el desarrollo de soluciones tecnológicas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Sobre mí
+- 💻 Estudiante de ASIR  
+- 🎓 19 años  
+- 🚀 Apasionado por la informática y la tecnología  
+
+---
+
+## 📫 Contacto
+- ✉️ Email: pacocamaron12@gmail.com  
+- 🌐 GitHub: [fcasmar2101](https://github.com/fcasmar2101)   
+
+---
+
+## 🚀 Objetivos
+- Seguir aprendiendo y mejorar mis habilidades en administración de sistemas.  
+- Contribuir en proyectos colaborativos de código abierto.  
+- Prepararme para un futuro profesional en el mundo IT.  
